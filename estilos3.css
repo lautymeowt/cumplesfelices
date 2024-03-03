@@ -1,0 +1,72 @@
+*{
+    cursor: url(imagenes/globitos.gif),auto;
+}
+body{
+    font-family: cursive;
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+  
+   
+}
+header{
+    display: flex;
+    height: 75px;
+    justify-content: space-between;
+    background-color: rgb(255, 77, 77);
+    align-items: center;
+    padding: 10px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 70px;
+    margin right: 20px;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 20px;
+}
+
+nav a:hover{
+    color: #4141c9;
+}
+
+div h2{
+    color: yellow;
+}
+body{
+   background: url(imagenes/starconfetti.png);
+ cursor: url(imagenes/globitos.gif),auto;
+ 
+
+}
+section{
+    text-align: center;
+    background-color: yellow;
+    border-radius: 100px;
+    
+  }
+section img{
+    height: 510px;
+}
+section{
+    width: 50%;
+margin: auto;
+}
+section h1{
+    color: #4141c9;
+}
+
+footer{
+    background-color: #4141c9;
+    height: 50px;
+}
